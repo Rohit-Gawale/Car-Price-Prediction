@@ -5,7 +5,7 @@
   The Car Price Prediction Module is a data analysis and machine learning project aimed at accurately predicting the price of cars based on their various characteristics. 
   This project leverages Python’s data manipulation, visualization, and machine learning libraries to preprocess the data, select relevant features, and build predictive 
   models.
-
+ 
 - Project Goals
   Data Preprocessing: Clean and preprocess the raw data to handle missing values, outliers, and categorical variables.
   Feature Selection: Identify and select the most relevant features for predicting car prices.
